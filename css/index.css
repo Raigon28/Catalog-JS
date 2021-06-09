@@ -2,6 +2,7 @@
     --color-white: #fff;
     --color-light: #f8f9fa;
     --color-unaccent: #808080;
+    --color-medium: #e8e8e8;
 
     --spacing-small: 10px;
     --spacing-medium: 15px;
@@ -22,6 +23,7 @@
 body {
     margin: 0;
     padding: 0;
+    padding-top: 70px;
     font-family: sans-serif;
     line-height: 1.7;
     background-color: var(--color-light);

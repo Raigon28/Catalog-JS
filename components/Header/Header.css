@@ -1,0 +1,17 @@
+.header-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    padding: var(--spacing-small);
+    background-color: var(--color-medium);
+    box-shadow: var(--box-shadow);
+}
+
+.header-counter {
+    margin-left: auto;
+    margin-right: var(--spacing-small);
+    font-size: 30px;
+    cursor: pointer;
+}
