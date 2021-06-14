@@ -2,6 +2,8 @@
 
 ![catalog-guitar](https://user-images.githubusercontent.com/51198976/121955948-38045400-cd69-11eb-975a-6fee77b787fc.png)
 
+### Demo - https://reyrin.github.io/Catalog-JS/
+
 ## I used - 
 1. HTML, CSS, JS
 2. LocaleStorage
