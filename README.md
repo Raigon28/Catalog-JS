@@ -12,11 +12,11 @@
 ```
 git clone https://github.com/Reyrin/Catalog-JS.git
 ```
-Installing dependencies
+## Installing dependencies
 ```
 npm install
 ```
-Starting a project
+## Starting a project
 ```
 npm run open
 ```
