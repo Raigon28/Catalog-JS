@@ -1,0 +1,25 @@
+{
+  "name": "catalog-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "concurrently \"http-server -a localhost -p 1234 ./src\" \"start http://localhost:1234\"",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reyrin/Catalog-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reyrin/Catalog-JS/issues"
+  },
+  "homepage": "https://Reyrin.github.io/Catalog-JS",
+  "devDependencies": {
+    "concurrently": "^6.2.0",
+    "gh-pages": "^3.2.0",
+    "http-server": "^0.12.3"
+  }
+}
