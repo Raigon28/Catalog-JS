@@ -1,0 +1,13 @@
+.error-message {
+    padding: 20px 40px;
+    text-align: center;
+    background-color: var(--color-error-light);
+    box-shadow: var(--box-shadow);
+    color: var(--color-white);
+    border: 5px solid var(--color-error-dark);
+    position: absolute;
+    min-width: 400px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
